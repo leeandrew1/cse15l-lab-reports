@@ -8,9 +8,6 @@
 
 ---
 
-
-`inline code` block
-
 ```
 print('hi')
 ```

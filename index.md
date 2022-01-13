@@ -2,7 +2,7 @@
 
 
 
-[Link](http://google.com)
+[Link](https://google.com)
 
 ![Image](https://commonmark.org/help/images/favicon.png)
 

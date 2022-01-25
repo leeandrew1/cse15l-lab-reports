@@ -1,11 +1,11 @@
 # Lab 1 Report
 ## Installing VS Code
-First we will have to go to https://code.visualstudio.com/ and click the download button to download VS Code. Then you have to install it. After it is done, you can open VS code and it will look something like this.
+First we will have to go to the [VS code website](https://code.visualstudio.com/) and click the download button to download VS Code. Then you have to install it. After it is done, you can open VS code and it will look something like this.
 
 ![Image](VSCode.png)
 
 ## Remotely Connecting
-Now we will try to connect remotely. Since I am on windows I will have to install [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) and follow the instructions on there. I can check my specific course account right here: https://sdacs.ucsd.edu/~icc/index.php
+Now we will try to connect remotely. Since I am on windows I will have to install [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) and follow the instructions on there. I can check my specific course account right on this [website](https://sdacs.ucsd.edu/~icc/index.php). 
 Now I open up the terminal in VS Code. I write this `ssh cs15lwi22zz@ieng6.ucsd.edu` and replace the zz with my own specific course account. After doing so, it will look something like this: 
 
 ![Image](RemotelyConnecting.png) 

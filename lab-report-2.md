@@ -7,7 +7,7 @@ For example: ```![image](image.png)``` should not be interpreted as a link.
 
 ![code difference](pics/lab2FirstCodeDifference.PNG)
 
-[Link to test file](https://github.com/leeandrew1/markdown-parse/blob/main/test2.md)
+[Link to test file](https://github.com/leeandrew1/markdown-parse/blob/13ebead16e5065f6834970d38ada05f41c690a03/test2.md)
 
 ![first symptom](pics/lab2FirstSymptom.PNG)
 
@@ -22,7 +22,7 @@ The second change we made was that there should be no spaces between the closed 
 ![code difference](pics/lab2SecondCodeDifference.PNG)
 
 
-[Link to test file](https://github.com/leeandrew1/markdown-parse/blob/main/test4.md)
+[Link to test file](https://github.com/leeandrew1/markdown-parse/blob/13ebead16e5065f6834970d38ada05f41c690a03/test4.md)
 ![second symptom](pics/lab2SecondSymptom.PNG)
 
 
@@ -34,7 +34,7 @@ This change fixed cases where there is no ending parenthesis, so links like ```[
 
 ![code difference](pics/lab2ThirdCodeDifference.PNG)
 
-[Link to test file](https://github.com/leeandrew1/markdown-parse/blob/main/test5.md)
+[Link to test file](https://github.com/leeandrew1/markdown-parse/blob/13ebead16e5065f6834970d38ada05f41c690a03/test5.md)
 
 ![third symptom](pics/lab2ThirdSymptom.PNG)
 

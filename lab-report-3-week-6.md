@@ -2,7 +2,7 @@
 
 ## Option 1: Streamlining ssh configuration
 
-Here is my .ssh/config file. I edited it by opening the file through VS Code 
+Here is my ```.ssh/config file```. I edited it by opening the file through VS Code 
 
 ![SSH config image](pics/sshConfigImage.PNG)
 

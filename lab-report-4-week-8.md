@@ -3,6 +3,9 @@
 ## Snippet 1
 For snippet 1, the expected links, based on VS code preview, are the ones highlighted in blue:
 ![hey](pics/snippet1expected.PNG)
+
+<br/>
+
 So that means we expect the following to be links: 
 ``` 
 google.com 
@@ -13,8 +16,13 @@ ucsd.edu
 <br/>
 
 ## Snippet 2
-For snippet 2, here is the VS code preview: 
+Snippet 2 in VS code preview:
+<br/>
 ![snippet2](pics/snippet2expected.PNG)
+
+<br/>
+
+
 And the expected links are 
 ```
 a.com 

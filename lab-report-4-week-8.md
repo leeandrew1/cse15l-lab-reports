@@ -35,10 +35,7 @@ example.com
 ## Snippet 3
 For snippet 3, here is the VS code preview:
 ![snippet3](pics/snippet3expected.PNG)
-
-<br/>
-And the expected links are
-
+And the expected links are 
 ```
 https://www.twitter.com
 https://ucsd-cse15l-w22.github.io/ 

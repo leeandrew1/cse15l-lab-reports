@@ -46,6 +46,7 @@ The bug for the wrong implementation is that when we add a potential link into o
 <br/>
 
 
+
 ## 567.md's contents:
 ```
 [foo](not a link)
